@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF - 8"?>
+
+<CWeaponModelInfo__InitDataList>
+	<InitDatas>
+		<Item>
+			<modelName>w_at_scope_mediumrainbowcarbineglow</modelName>
+			<txdName>w_at_scope_mediumrainbowcarbineglow</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>w_at_ar_supp_02rainbowcarbineglow</modelName>
+			<txdName>w_at_ar_supp_02rainbowcarbineglow</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>w_at_ar_afgriprainbowcarbineglow</modelName>
+			<txdName>w_at_ar_afgriprainbowcarbineglow</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>w_ar_rainbowcarbineglow_boxmag</modelName>
+			<txdName>w_ar_rainbowcarbineglow_boxmag</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="300"/>
+		</Item>
+		<Item>
+			<modelName>w_ar_rainbowcarbineglow</modelName>
+			<txdName>w_ar_rainbowcarbineglow</txdName>
+			<ptfxAssetName>NULL</ptfxAssetName>
+			<lodDist value="500"/>
+		</Item>
+		<Item>
+			<modelName>w_ar_specialcarbine</modelName>
+			<txdName>w_ar_specialcarbine</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>w_ar_specialcarbine_Mag1</modelName>
+			<txdName>w_ar_specialcarbine_Mag1</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+		<Item>
+			<modelName>w_ar_specialcarbine_Mag2</modelName>
+			<txdName>w_ar_specialcarbine_Mag2</txdName>
+			<ptfxAssetName>null</ptfxAssetName>
+			<lodDist value="50"/>
+		</Item>
+	</InitDatas>
+</CWeaponModelInfo__InitDataList>
+
